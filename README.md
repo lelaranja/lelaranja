@@ -5,15 +5,18 @@
 <p align="center">
   <img src="http://24.media.tumblr.com/051d5320f7824fad820489edf5e1fc76/tumblr_n06l2mXy1T1scjbypo1_500.gif" alt="dog coding" width= 500">
 </p>
-#🔭 Atualmente trabalhando no meu portfolio :grin:<br><br>
-#🥅 2022 Goals: Conseguir minha primeira colocação como DevJr.<br><br>
-#🧗 Estudando sobre: JavaScript e Typescript.<br><br>
+🔭 Atualmente trabalhando no meu portfolio :grin:<br><br>
+🥅 2022 Goals: Conseguir minha primeira colocação como DevJr.<br><br>
+🧗 Estudando sobre: JavaScript e Typescript.<br><br>
 
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticialaranja/)
 
-![Laranja GitHub stats](https://github-readme-stats.vercel.app/api?username=lelaranja&show_icons=true&theme=gruvbox)
+<div>
+<a href="https://github.com/lelaranja">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelaranja&layout=compact)](https://github.com/lelaranja/github-readme-stats)
 
 ## Tecnologias que estou aprendendo/usando atualmente
 <div style ="display:inline_block"><br/>
