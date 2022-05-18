@@ -5,9 +5,9 @@
 <p align="center">
   <img src="http://24.media.tumblr.com/051d5320f7824fad820489edf5e1fc76/tumblr_n06l2mXy1T1scjbypo1_500.gif" alt="dog coding" width= 500">
 </p>
-🔭 Atualmente trabalhando no meu portfolio :grin:<br><br>
-🥅 2022 Goals: Conseguir minha primeira colocação como DevJr.<br><br>
-🧗 Estudando sobre: JavaScript e Typescript.<br><br>
+**Bold**🔭 Atualmente trabalhando no meu portfolio :grin:
+**Bold**🥅 2022 Goals: Conseguir minha primeira colocação como DevJr.
+**Bold**🧗 Estudando sobre: JavaScript e Typescript.
 
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticialaranja/)
 
