@@ -11,9 +11,7 @@
 
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticialaranja/)
 
-![Laranja's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelaranja&theme=vision-friendly-dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelaranja&langs_count=5)](https://github.com/lelaranja/github-readme-stats)
+![Laranja's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelaranja&theme=vision-friendly-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelaranja&langs_count=5)](https://github.com/lelaranja/github-readme-stats)
 
 
 ## Tecnologias que estou aprendendo/usando atualmente
