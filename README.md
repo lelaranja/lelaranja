@@ -3,7 +3,7 @@
 ### Você pode dar uma olhada no meu trabalho, até o momento, pelo meu repositório aqui no GitHub e pode me contatar pelo meu linkedin.
 
 
-![](img src=http://24.media.tumblr.com/051d5320f7824fad820489edf5e1fc76/tumblr_n06l2mXy1T1scjbypo1_500.gif)
+![](http://24.media.tumblr.com/051d5320f7824fad820489edf5e1fc76/tumblr_n06l2mXy1T1scjbypo1_500.gif)
                                                                                                                                         
 **🔭 Atualmente trabalhando no meu portfólio**
 
