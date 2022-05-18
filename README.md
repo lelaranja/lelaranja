@@ -1,4 +1,6 @@
+<p align='center'>
 ## Olá, meu nome é Letícia Laranja 🖐️🍊
+  </p>
 ### Sou estudante no Resilia Edução, onde estou me formando como desenvolvedora fullstack.
 ### Você pode dar uma olhada no meu trabalho, até o momento, pelo meu repositório aqui no GitHub e pode me contatar pelo meu linkedin.
 
@@ -11,7 +13,9 @@
 
 **🧗 Estudando sobre: JavaScript e Typescript.**
 
+
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticialaranja/)
+
 
 ![Laranja's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelaranja&theme=vision-friendly-dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelaranja&langs_count=5)](https://github.com/lelaranja/github-readme-stats)
 
