@@ -18,6 +18,8 @@
 
 
 ![Laranja's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelaranja&theme=vision-friendly-dark&show_icons=true) 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelaranja&langs_count=5)](https://github.com/lelaranja/github-readme-stats)
 
 
