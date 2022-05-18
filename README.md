@@ -5,9 +5,9 @@
 <p align="center">
   <img src="http://24.media.tumblr.com/051d5320f7824fad820489edf5e1fc76/tumblr_n06l2mXy1T1scjbypo1_500.gif" alt="dog coding" width= 500">
 </p>
-- 🔭 Atualmente trabalhando no meu portfolio :grin:<br><br>
-- 🥅 2022 Goals: Conseguir minha primeira colocação como DevJr.<br><br>
-- 🧗 Estudando sobre: JavaScript e Typescript.<br><br>
+#🔭 Atualmente trabalhando no meu portfolio :grin:<br><br>
+#🥅 2022 Goals: Conseguir minha primeira colocação como DevJr.<br><br>
+#🧗 Estudando sobre: JavaScript e Typescript.<br><br>
 
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticialaranja/)
 
@@ -21,18 +21,3 @@
     <img align = 'center' alt='css3' src = 'https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
     <img align = 'center' alt='css3' src = 'https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
 </div>
-
-<!--
-**lelaranja/lelaranja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
