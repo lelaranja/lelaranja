@@ -24,8 +24,6 @@
 </div>
 
 
-
-
 <h3 align='center'> 
 
 	 🔭 Atualmente trabalhando no meu portfólio
@@ -36,11 +34,12 @@
 </h3><br>
 
 
-
-![Laranja's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelaranja&theme=vision-friendly-dark&show_icons=true) 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelaranja&langs_count=5)](https://github.com/lelaranja/github-readme-stats)
+<h3> 🏋️ Atividades no Github</h3>
+<div align="center">
+  <a href="https://github.com/lelaranja">
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=lelaranja&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelaranja&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 ## Tecnologias que estou aprendendo/usando atualmente
