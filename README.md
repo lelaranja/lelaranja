@@ -7,7 +7,23 @@
 <img src="http://24.media.tumblr.com/051d5320f7824fad820489edf5e1fc76/tumblr_n06l2mXy1T1scjbypo1_500.gif" width="500" title="DevDog">
 </p>
 
-[![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticialaranja/)
+<h3 align='center'>📱 Redes sociais</h3>
+<div align='center'>
+<a href = 'https://www.linkedin.com/in/leticialaranja/'>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href = 'mailto:leticiajlaranja@gmail.com'>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.codewars.com/users/lelaranja" target="_blank">
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank">
+</a>
+	
+</div>
+
+
 
 
 <h3 align='center'> 
